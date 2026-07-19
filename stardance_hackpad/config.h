@@ -1,5 +1,13 @@
 #pragma once
 #define BOARD_NOODLE_XIAO
+#define D0  GP26
+#define D1  GP27
+#define D2  GP28
+#define D3  GP29
+#define D6  GP0
+#define D7  GP1
+#define D8  GP2
+#define D9  GP4
 #define MATRIX_ROWS 1  //
 #define MATRIX_COLS 6  // 
 #define DIRECT_PINS { \
